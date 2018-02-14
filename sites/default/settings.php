@@ -251,7 +251,7 @@ $databases = array (
     array (
       'database' => 'drupaldb',
       'username' => 'drupaluser',
-      'password' => 'bS2ho9vVxC',
+      'password' => 'e68f3f5963ee4cb60a726e8c67',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
